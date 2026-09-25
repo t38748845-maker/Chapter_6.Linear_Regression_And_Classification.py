@@ -34,6 +34,4 @@ p = p.subs(b1, 0.620)
 print(p)
 
 # plot logistic function...
-plot(p)
-
-                                
+plot(p)                                
